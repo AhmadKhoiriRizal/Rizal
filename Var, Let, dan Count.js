@@ -1,8 +1,8 @@
-//Bisa ditambah variabel baru dan 
-//variabel lama masih ditampilkan
+//Bisa ditambah variabel baru namun
+//variabel lama tidak ditampilkan
 var message="Mari Belajar";
-message += " Javascript";
-message += " Untuk Pemula";
+message = " Javascript";
+message = " Untuk Pemula";
 /*Bisa ditambah variabel baru namun
 variabel lama tidak ditampilkan*/
 let nomber=15;
